@@ -84,25 +84,3 @@ h1 span:nth-child(8)
     }
 }
 
-
-
-@media only screen and (max-width: 600px)
- {
-    h1{
-       
-        font-size: 20px;
-        line-height: 10px;
-        
-    }
-    html{
-        font-size:60.5%;
-        overflow-x: hidden;
-
-        position: relative;
-    font: size 5px;
-    margin-bottom:10px;
-    text-align:center;
-    }
-  }
- 
- 
